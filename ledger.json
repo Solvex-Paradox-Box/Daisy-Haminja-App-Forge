@@ -1,0 +1,35 @@
+[
+  {
+    "id": "TX-DB8DE5CF",
+    "timestamp": "2026-07-13T22:28:35.220Z",
+    "input": "STRESS_TEST_SEQUENCE_NODE_54: RECURSIVE_INTEGRATION_PARADOX_RESOLUTION_PROTOCOL. SHANNON_ENTROPY_PEAK_DETECTION_VAL: [0x54F, 0xABC, 0x999]. DYNAMIC_TETHER_CONVERGENCE.",
+    "entropy": 4.583,
+    "parity": "EVEN",
+    "checks": {
+      "structureAudit": "PASSED",
+      "nodeParity": "STABLE",
+      "tecoeAlignment": "SYNCHRONIZED",
+      "protocolExtraction": "JSON_PROTOCOL",
+      "paradoxHeuristic": "PRIORITIZED_ANCHOR_ACTIVE: TETH-9C0D13"
+    },
+    "status": "PERFECT",
+    "parentHash": "11e972832f3ea4032f39b86d5953d4ba6fdccd33f8f029a31da51322a61ef64a",
+    "resolutionBubble": "CORE_BUBBLE_CEBA9E3D_[STRESSTESTSEQUENCENODE54_RECURSIVEINTEGRATIONPARADOXRESOLUTIONPROTOCOL_SHANNONENTROPYPEAKDETECTIONVAL_0X54F]",
+    "sha256": "b6ff9bad38dac30b9d8ba1387ee4aeb73133ea0f47a1096b72cc4d5f73f936b4"
+  },
+  {
+    "id": "TX-1BA9DC6A",
+    "timestamp": "2026-07-13T22:18:20.257Z",
+    "input": "INIT_SEQ_ALPHA: THE_ENGINE_IS_THE_INTERFACE. RECURSION_DEPTH_01.",
+    "entropy": 4.101,
+    "parity": "EVEN",
+    "checks": {
+      "structureAudit": "PASSED",
+      "nodeParity": "STABLE",
+      "tecoeAlignment": "SYNCHRONIZED",
+      "protocolExtraction": "RAW_PLAINTEXT"
+    },
+    "status": "PERFECT",
+    "sha256": "11e972832f3ea4032f39b86d5953d4ba6fdccd33f8f029a31da51322a61ef64a"
+  }
+]
